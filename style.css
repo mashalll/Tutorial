@@ -1,0 +1,61 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(179, 232, 212);
+  font-weight: normal;
+  background-image: url("https://images.unsplash.com/photo-1499346030926-9a72daac6c63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80");
+  background-repeat: no-repeat;
+
+}
+
+.pizza{
+  height: 40vmin;
+  float: right;
+  margin-left: 50px;
+  opacity: 0.7;
+}
+
+a {
+  color: orange;
+}
+a:hover {
+  color: green;
+}
+
+strong {
+  color: blue;
+}
+
+h1 {
+  font-family: 'Cedarville Cursive', cursive;
+  color: #74578a;
+  font-size: 80px;
+  text-align: center;
+}
+
+/* Styling for js section */
+.js {
+  border: 5px dotted blue;
+  padding-left: 10px;
+  line-height: 5;
+}
+.js h3 {
+  color: blueviolet;
+}
+
+.js p {
+  color: red;
+  font-weight: bolder;
+}
+
+/* Styling for the python section*/
+.python {
+  border: 10px solid red;
+  border-radius: 25px;
+  color: white;
+  padding: 100px 20px;
+  margin: 50px; 
+  
+  background-image: url("https://www.lighthouselabs.ca/uploads/post/open_graph_image/459/Coding-vs-programming.jpg");
+}
+
