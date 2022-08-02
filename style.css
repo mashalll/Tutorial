@@ -8,6 +8,10 @@ html, body {
 
 }
 
+ul {
+  color: blue;
+}
+
 .pizza{
   height: 40vmin;
   float: right;
